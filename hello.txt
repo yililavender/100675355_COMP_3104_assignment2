@@ -1,0 +1,6 @@
+name: Hui Qiu
+student id: 100675355
+Individual Assignment
+COMP 3104 – DevOps
+Total Points (10%)
+Submission Deadline: Sunday, 27th Nov 2021, 11:59 PM (Week 12)
